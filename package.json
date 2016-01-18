@@ -1,0 +1,24 @@
+{
+  "name": "x-tag-component-generator",
+  "version": "1.0.0",
+  "description": "Yeoman generator for creating a webcomponent using x-tag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VsLoureiro/x-tag-component-generator.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "x-tag",
+    "webcomponent"
+  ],
+  "author": "Vitor Loureiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VsLoureiro/x-tag-component-generator/issues"
+  },
+  "homepage": "https://github.com/VsLoureiro/x-tag-component-generator#readme"
+}
