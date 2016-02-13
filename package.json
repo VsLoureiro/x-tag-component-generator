@@ -1,5 +1,5 @@
 {
-  "name": "x-tag-component-generator",
+  "name": "generator-x-tag-component",
   "version": "1.0.0",
   "description": "Yeoman generator for creating a webcomponent using x-tag",
   "main": "index.js",
